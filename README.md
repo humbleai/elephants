@@ -1,4 +1,3 @@
-
 # WHAT IS IT?
 
 This model is trying to explore how heavy poaching affects elephant population in Africa. This is an evolutionary biology model. The inspiration for this model is the work of Joyce Poole  on Gorongosa elephants.
@@ -13,6 +12,8 @@ While virtually no male elephants are tuskless (they need tusks to fight), about
 More details and a video can be found here: http://nautil.us/issue/41/selection/how-an-elephant-loses-its-tusks
 
 So our environment is elephants’ habitat, Gorongosa, Mozambique.
+
+![screenshot](https://raw.githubusercontent.com/humbleai/elephants/master/2016-10-31_15-43-20.png)
 
 # HOW IT WORKS
 
