@@ -2,6 +2,8 @@
 
 This model is trying to explore how heavy poaching affects elephant population in Africa. The inspiration for this model is the work of Joyce Poole  on Gorongosa elephants.
 
+<blockquote>You will need NetLogo to be able to run the model. NetLogo is a multi-agent programmable modeling environment. It is used by tens of thousands of students, teachers and researchers worldwide. It also powers HubNet participatory simulations. It is authored by Uri Wilensky and developed at the CCL. You can download it free of charge. Download here: https://ccl.northwestern.edu/netlogo/</blockquote>
+
 "Ivory hunting was rampant in Gorongosa over the 15 years of Mozambique’s civil war, which ended in 1992. The war has reshaped Gorongosa’s elephant population in surprising ways, in what might be called an example of rapid natural (or unnatural) selection.
 
 While virtually no male elephants are tuskless (they need tusks to fight), about 2 percent of female elephants are naturally tuskless. Among female elephants in Gorongosa who were adults during the civil war, however, half are tuskless—the others were simply killed. But tusklessness is an inheritable trait. That means that, even though poaching levels have fallen, a third of Gorongosa’s young female population is tuskless today."
