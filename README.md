@@ -126,7 +126,9 @@ Model seems to stand between "Peppered Moths" and "Wolf Sheep Predation".
 
 # CREDITS AND REFERENCES
 
-2016, humbleai Ugur
+2016, Ugur
+
+This model built as a Final Project for Introduction to Agent-Based Modeling MOOC. Check it out: https://www.complexityexplorer.org/courses/23-introduction-to-agent-based-modeling
 
 No animals were harmed in the making of this model.
 
