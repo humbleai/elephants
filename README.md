@@ -45,9 +45,13 @@ SETUP creates randomly distributed population according to initial variables.
 Every tick is a year. Every year following events occur:
 
 • Mature females give birth in every 6 years. New born’s properties determined by parent’s properties.
+
 • Elephants get 1 year older.
+
 • Mature tusky elephants get killed (Based on kill-rate.)
+
 • Old elephants (over a certain age) die naturally.
+
 
 If no male or female elephant left alive (Extinction) model stops execution.
 
@@ -79,9 +83,9 @@ In the middle, we have the world as our main output medium. After setup, you wil
 
 There are six plots on the screen as outputs.
 
-MEAN-AGE plots: First one plots average age tusky and tuskless elephants. Second one show average ages based on gender.
+MEAN-AGE plots: First one plots average ages of tusky and tuskless elephants. Second one show average ages based on gender.
 
-TUSKLESSNESS-RATIO plot: You can observe groving of tuskless population here. Blue line indicates INITIAL-TUSKLESSNESS. Black line shows tuskless elephant percentage in all population and the red line shows tuskless percentage of female elephants.
+TUSKLESSNESS-RATIO plot: You can observe growth of tuskless population here. Blue line indicates INITIAL-TUSKLESSNESS. Black line shows tuskless elephant percentage in all population and the red line shows tuskless percentage of female elephants.
 
 TUSKLESS & TOTAL FEMALES: This plot shows tuskless vs all female population by actual numbers.
 
