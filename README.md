@@ -2,7 +2,7 @@
 
 This model is trying to explore how heavy poaching affects elephant population in Africa. This is an evolutionary biology model. The inspiration for this model is the work of Joyce Poole  on Gorongosa elephants.
 
-<blockquote>You will need NetLogo to be able to run the model. NetLogo is a multi-agent programmable modeling environment. It is used by tens of thousands of students, teachers and researchers worldwide. It also powers HubNet participatory simulations. It is authored by Uri Wilensky and developed at the CCL. You can download it free of charge. Download here:
+<blockquote>You will need NetLogo to be able to run the model. (Actually you can run this model right in your browser with NetLogo Web. Check http://www.modelingcommons.org/browse/one_model/4811 NetLogo is a multi-agent programmable modeling environment. It is used by tens of thousands of students, teachers and researchers worldwide. It also powers HubNet participatory simulations. It is authored by Uri Wilensky and developed at the CCL. You can download it free of charge. Download here:
 https://ccl.northwestern.edu/netlogo/</blockquote>
 
 "Ivory hunting was rampant in Gorongosa over the 15 years of Mozambique’s civil war, which ended in 1992. The war has reshaped Gorongosa’s elephant population in surprising ways, in what might be called an example of rapid natural (or unnatural) selection.
